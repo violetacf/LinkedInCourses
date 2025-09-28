@@ -18,3 +18,12 @@ This repository contains exercises and examples from the LinkedIn course React: 
 
 * Reusable memoized components
 
+## Set up
+
+```
+npm i
+```
+
+```
+npm run dev
+```
