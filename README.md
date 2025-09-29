@@ -5,8 +5,9 @@ This repository contains exercises, projects, and examples from LinkedIn Learnin
 ## Repository Structure
 ```
 LinkedIn-Courses/
-├── Nodejs-Essential-Training/        # Node.js exercises and projects
-├── React-Advanced-Code-Challenges/   # Advanced React exercises and examples
+├── Nodejs-Essential-Training/        # Node.js exercises
+├── React-Advanced-Code-Challenges/   # Advanced React exercises
+├── Learning-Kubernetes/              # Kubernetes exercises
 └── README.md                         # This overview file
 ```
 
@@ -14,6 +15,7 @@ LinkedIn-Courses/
 
 * `React-Advanced-Code-Challenges`: Advanced React concepts including hooks, context, performance optimization, custom hooks, API calls, and error boundaries.
 
+* `Learning-Kubernetes`: Container fundamentals, Kubernetes installation, YAML manifests, pods, services, resource management, logs, troubleshooting, and security best practices. Gain practical experience deploying and managing containerized applications using Minikube and kubectl.
 
 ## How to Use
 
